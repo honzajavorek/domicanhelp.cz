@@ -1,6 +1,6 @@
 # Domi can help!
 
-Hello, I'm Domi and I'm open to work.
+Hello, I'm Domitil and I'm open to work.
 
 ## About me
 
