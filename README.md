@@ -14,7 +14,15 @@ Hello, I'm Domitil and I'm open to work.
 
 ## What I can help with
 
-(Domi's TODO to fill this)
+-   Administration
+-   Digital marketing
+-   Brand awareness promotions
+-   Cold calls
+-   After sales calls
+-   Tender submissions
+-   Typing
+
+I'm open to volunteering too.
 
 ## Contact
 
