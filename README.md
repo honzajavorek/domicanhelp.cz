@@ -8,7 +8,7 @@ Hello, I'm Domitil and I'm open to work.
 -   Bachelor of Business Administration, [International University of Management](https://ium.edu.na/)
 -   Learned about the Python community at [PyCon Namibia](https://na.pycon.org/) 2020
 -   Presenting at PyCon CZ 2023: [Python in the Namibian desert](https://cz.pycon.org/2023/program/talks/92/)
--   Co-founded a family school in the poorest area of Ohangwena region of Namibia.
+-   Co-founded a family school in the poorest area of [Ohangwena region](https://goo.gl/maps/qshv3oSt5LiK2nLg9) of Namibia.
     I take care of administration, digital marketing, and fundraising.
     The school aims to teach the basics of computer science and programming once it's developed enough.
 
