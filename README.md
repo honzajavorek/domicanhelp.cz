@@ -1,6 +1,6 @@
 # Domi can help!
 
-Hello, I'm Domitil and I'm open to work.
+Hello, I'm Domitil and I'm open to work or volunteering.
 
 ## About me
 
@@ -21,8 +21,6 @@ Hello, I'm Domitil and I'm open to work.
 -   After sales calls
 -   Tender submissions
 -   Typing
-
-I'm open to volunteering too.
 
 ## Contact
 
